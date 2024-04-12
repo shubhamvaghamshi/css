@@ -15,3 +15,7 @@ table, th, td{
 th{
     background-color: aqua;
 }
+
+tr:nth-child(even){
+ background-color: #ddd;
+}    
